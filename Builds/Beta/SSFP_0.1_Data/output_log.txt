@@ -1,0 +1,20 @@
+Initialize engine version: 5.0.0p2 (b8242d3df8b0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x67b1)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\Solar System Final Project 121416\Builds\SSFP_0.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\Solar System Final Project 121416\Builds\SSFP_0.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\Solar System Final Project 121416\Builds\SSFP_0.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\Solar System Final Project 121416\Builds\SSFP_0.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\Solar System Final Project 121416\Builds\SSFP_0.1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\Solar System Final Project 121416\Builds\SSFP_0.1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.067 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Unity\Solar System Final Project 121416\Builds\SSFP_0.1_Data\Managed\System.Core.dll (this message is harmless)
